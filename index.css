@@ -1,5 +1,6 @@
 .font {
     font-family: 'Montserrat';
+    font-weight: 400;
 }
 
 .title {
@@ -12,11 +13,11 @@
     align-items: center;
 }
 
-.pad-left {
+.parapgraph {
     margin-left: 20%;
-    margin-right: auto;
+    margin-right: 20%;
 }
 
-.empty {
-    margin-top: 100px;
+.pad-top {
+    margin-top: 3rem;
 }
