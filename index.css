@@ -21,3 +21,22 @@
 .pad-top {
     margin-top: 3rem;
 }
+
+.pad-top-small {
+    margin-top: 1.5rem;
+}
+
+.quote {
+    border-left: 2px;
+    border-left-style: solid;
+    border-left-color: black;
+    padding-left: 10px;
+}
+
+.quote-source {
+    color: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-right: 20%;
+}
